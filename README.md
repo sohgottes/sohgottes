@@ -6,11 +6,22 @@
 <img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
   
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
-  <!-- <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
-  
+  <!-- <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> --> 
 </div>
 
+<h3 align="center">
+  Desenvolvedor Web
+</h3>
 
+<div align="center">
+<p>
+<a href="mailto:moura_guilherme@outlook.com.br">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/moura-gui/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+</div>
+
+<br><br><br>
  <div>
    <a href="https://github.com/sohgottes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohgottes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
