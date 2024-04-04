@@ -37,12 +37,6 @@
 		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Guilhermemoura&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
 	</a>
 </div>
-
-<div align="center">
-
-</div>
-
-<details align="left">
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
