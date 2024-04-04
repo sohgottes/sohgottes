@@ -27,6 +27,22 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohgottes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohgottes&layout=compact&langs_count=6&theme=dracula"/>
 </div>
+
+## 📊 &nbsp;Stats
+
+<h3 align="left">GitHub Stats</h3>
+
+<div align="left">
+	<a href="https://github.com/sohgottes/Copia_GTAV" target = "_blank">
+		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Guilhermemoura&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
+	</a>
+</div>
+
+<div align="center">
+
+</div>
+
+<details align="left">
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
