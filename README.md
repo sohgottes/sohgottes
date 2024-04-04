@@ -23,7 +23,7 @@
 
 <br><br><br>
  <div>
-## 📊 &nbsp;Stats
+	## 📊 &nbsp;Stats
 	<h3 align="left">GitHub Stats</h3>
    <a href="https://github.com/sohgottes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohgottes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -44,6 +44,43 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">    
 </div>
+
+## 📌 &nbsp;Pinned Repositories
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/sohgottes/Copia_GTAV">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Recriando a página do GTA V</h3>
+			<p>Recriei a página do renomado jogo GTA V, utilizando JavaScript, HTML e CSS.</p>
+			<a href="https://github.com/sohgottes/Copia_GTAV">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/sohgottes/Primeira_Landing_Page">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />          
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Primeira Landding Page</h3>
+			<p>Minha primeira landding page criada com JavaScript, HTML e CSS</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
  
 <br>
  
